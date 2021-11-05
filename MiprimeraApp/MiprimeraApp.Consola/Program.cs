@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MiprimeraApp.Console
+namespace MiprimeraApp.Consola
 {
     class Program
     {

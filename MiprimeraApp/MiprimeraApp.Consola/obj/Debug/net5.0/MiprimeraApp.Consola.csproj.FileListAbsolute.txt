@@ -1,0 +1,16 @@
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Consola.exe
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Consola.deps.json
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Consola.runtimeconfig.json
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Consola.runtimeconfig.dev.json
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Consola.dll
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\ref\MiprimeraApp.Consola.dll
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Consola.pdb
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.csproj.AssemblyReference.cache
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.AssemblyInfoInputs.cache
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.AssemblyInfo.cs
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.dll
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\ref\MiprimeraApp.Consola.dll
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.pdb
+C:\Users\Alejo\Ejercicio_Sena_2021\PrimerProyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp.Console\\MiprimeraApp.Console.csproj": {}
+    "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp\\MiprimeraApp.Consola\\MiprimeraApp.Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp.Console\\MiprimeraApp.Console.csproj": {
+    "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp\\MiprimeraApp.Consola\\MiprimeraApp.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp.Console\\MiprimeraApp.Console.csproj",
-        "projectName": "MiprimeraApp.Console",
-        "projectPath": "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp.Console\\MiprimeraApp.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp\\MiprimeraApp.Consola\\MiprimeraApp.Consola.csproj",
+        "projectName": "MiprimeraApp.Consola",
+        "projectPath": "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp\\MiprimeraApp.Consola\\MiprimeraApp.Consola.csproj",
         "packagesPath": "C:\\Users\\Alejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp.Console\\obj\\",
+        "outputPath": "C:\\Users\\Alejo\\Ejercicio_Sena_2021\\PrimerProyecto\\MiprimeraApp\\MiprimeraApp.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
