@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:37653",
-      "sslPort": 44385
+      "applicationUrl": "http://localhost:8599",
+      "sslPort": 44339
     }
   },
   "profiles": {
@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "MiprimerApp.Fronted": {
+    "MiprimeraApp.Frontend": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
