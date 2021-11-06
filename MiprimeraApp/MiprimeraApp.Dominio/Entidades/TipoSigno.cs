@@ -3,7 +3,7 @@ namespace MiprimeraApp.Dominio
     ///<summary>
     ///lista de signos vitales
     ///</summary>
-    public enum Tipo
+    public enum TipoSigno
     {
         TensionArterial,
         FrecuenciaCardiaca,

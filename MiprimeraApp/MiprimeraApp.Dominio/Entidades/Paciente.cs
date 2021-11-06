@@ -7,7 +7,8 @@ namespace MiprimeraApp.Dominio
     {
         public string Direccion {get; set;}
         public string Ciudad {get;set;}
-        public DateTime FechaNacimiento{get;set;}
+        public DateTime FechaNacimiento {get;set;}
         public Medico Medico {get; set;}
+        public List<SignoVital> SignoVitales {get;set;}
     }
 }

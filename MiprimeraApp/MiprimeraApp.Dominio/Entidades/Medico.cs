@@ -1,4 +1,4 @@
-namespace MiprimeraApp.Dominio.Entidades
+namespace MiprimeraApp.Dominio
 {
     ///<summary> Class <c> Medico </c>
     ///Modela un  medico del equipo
