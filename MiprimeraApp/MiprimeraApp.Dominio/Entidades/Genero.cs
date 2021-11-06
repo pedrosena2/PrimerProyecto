@@ -1,4 +1,4 @@
-namespace MiprimeraApp.Dominio.Entidades
+namespace MiprimeraApp.Dominio
 {
     ///<summary>
     ///Lista de Generos
