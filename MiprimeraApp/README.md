@@ -1,6 +1,6 @@
 TUTORIAL INICIAL asp.net core 5.0
 
-dotnet start: Ejecutar el programa
+dotnet run: Ejecutar el programa
 dotnet build: Para compilar y revisar errores
 dotnet --version: Para revisar la version del sdk de .net
 
@@ -39,7 +39,7 @@ dotnet --version: Para revisar la version del sdk de .net
 
         a) Carpeta Consola
                     dotnet add package Microsoft.EntityFrameworkCore.Design
-                    
+
         b) Carpeta Frontend
 
         c) Carpeta Persistencia
