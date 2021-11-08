@@ -47,3 +47,20 @@ dotnet --version: Para revisar la version del sdk de .net
                     dotnet add package Microsoft.EntityFrameworkCore.Tools
                     dotnet add package Microsoft.EntityFrameworkCore.Design
                     dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+9) crear las referncias a las carpetas de persistencia y dominio; siempre y cuando analicemos que uniones debemos realizar dentro  de los .csproj
+
+                        dotnet add reference ..\MiprimeraApp.Dominio     
+                                a)Carpeta Consola referencia a Persistencia y Dominio
+                                b)Carpeta Persistencia a Dominio
+
+10) Crear las entidades en la carpeta Dominio
+
+11) Crear el AppContext para realizar el mapeo de las entidades para crear la migracion y crear la conexion con la base de datos (SQL SERVER)
+
+12) Crear la migracion a la base de datos
+    12.1) Si no tiene migraciones.
+        a) dotnet ef database Inicial --startup-project ..\MiprimeraApp.Consola\
+    
+    12.2) Si ya existe  migraciones
+        b) dotnet ef database update --startup-project ..\MiprimeraApp.Consola\
