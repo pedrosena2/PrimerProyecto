@@ -11,27 +11,27 @@ namespace MiprimeraApp.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Bienvenidos al 5 noviembre!");
-            //AddPaciente();
-            //BuscarPaciente(1);
-            //MostrarPaciente(); 
+            AddPaciente();
+            //BuscarPaciente(2);
+             //MostrarPacientes(); 
         }
         private static void AddPaciente()
         {
             var paciente = new Paciente
             {
-                Nombre="Pepito",
-                Apellidos="Perez",
-                NumeroTelefono="6068888888",
-                Genero=Genero.Masculino,
-                Direccion="Calle 10 no 1-2",
+                Nombre="Valentina",
+                Apellidos="Garzon",
+                NumeroTelefono="6068844433",
+                Genero=Genero.Femenino,
+                Direccion="Calle 67 no 11-84",
                 Ciudad="Manizales",
-                FechaNacimiento= new DateTime(1990,04,12)
+                FechaNacimiento= new DateTime(1985,07,30)
             };
             _repoPaciente.AddPaciente(paciente);
         }
-        private static void MostrarPaciente()
+        private static void MostrarPacientes()
         {
-            IEnumerable<Paciente> pacientes = _repoPaciente.GetAllPacientes();
+            IEnumerable <Paciente> pacientes = _repoPaciente.GetAllPacientes();
             foreach (var paciente in pacientes)
             {
                 Console.WriteLine(paciente.Nombre+" "+ paciente.Apellidos+" "+paciente.Genero); 
@@ -42,5 +42,6 @@ namespace MiprimeraApp.Consola
             var paciente = _repoPaciente.GetPaciente(idPaciente);
             Console.WriteLine(paciente.Id+" "+paciente.Nombre+" "+paciente.Apellidos+" "+paciente.Genero);
         }
+
     }
 }
